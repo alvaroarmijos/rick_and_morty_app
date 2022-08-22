@@ -53,4 +53,4 @@ You need these packages for the application to work
 
 # Built with 🛠️
   - [Flutter](https://flutter.dev/ "flutter")
-  - [The Rick and Morty API]([https://pokeapi.co/](https://rickandmortyapi.com/) "The Rick and Morty API")
+  - [The Rick and Morty API](https://rickandmortyapi.com/ "The Rick and Morty API")
